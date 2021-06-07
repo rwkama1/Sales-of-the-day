@@ -1,0 +1,16 @@
+{
+  "name": "sales-of-the-day",
+  "version": "1.0.0",
+  "description": " Suppose you have a store and you want to record sales on your computer. Design an algorithm that reads for each customer the total amount of their purchase. At the end of the day you write down the total amount of sales and the number of customers served.",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/Sales-of-the-day"
+  },
+ 
+  "keywords": ["js","javascript","calculation","total","customer","purchase","sale","backend"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
