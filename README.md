@@ -26,6 +26,6 @@ Suppose you have a store and you want to record sales on your computer. Design a
  let sale=new Sale(arraycustomer);
  let calc=sale.sales_day();
  console.log("The total of the sale of the day is: USD "+calc.sum);
- console.log("The total number of clients served is: "+calc.counter);
+ console.log("The total number of customers served is: "+calc.counter);
  
 ```
